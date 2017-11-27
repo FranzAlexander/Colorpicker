@@ -1,0 +1,33 @@
+E:\ColorPicker\ColorPicker\ColorPicker\bin\Debug\ColorPicker.exe.config
+E:\ColorPicker\ColorPicker\ColorPicker\bin\Debug\ColorPicker.exe
+E:\ColorPicker\ColorPicker\ColorPicker\bin\Debug\ColorPicker.pdb
+E:\ColorPicker\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csprojResolveAssemblyReference.cache
+E:\ColorPicker\ColorPicker\ColorPicker\obj\Debug\ColorPicker.Form1.resources
+E:\ColorPicker\ColorPicker\ColorPicker\obj\Debug\ColorPicker.Properties.Resources.resources
+E:\ColorPicker\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csproj.GenerateResource.Cache
+E:\ColorPicker\ColorPicker\ColorPicker\obj\Debug\ColorPicker.exe
+E:\ColorPicker\ColorPicker\ColorPicker\obj\Debug\ColorPicker.pdb
+E:\ColorPicker\ColorPicker\ColorPicker\bin\Debug\Newtonsoft.Json.dll
+E:\ColorPicker\ColorPicker\ColorPicker\bin\Debug\Newtonsoft.Json.xml
+F:\ColorPicker\ColorPicker\ColorPicker\bin\Debug\ColorPicker.exe.config
+F:\ColorPicker\ColorPicker\ColorPicker\obj\Debug\ColorPicker.exe
+F:\ColorPicker\ColorPicker\ColorPicker\obj\Debug\ColorPicker.pdb
+F:\ColorPicker\ColorPicker\ColorPicker\bin\Debug\ColorPicker.exe
+F:\ColorPicker\ColorPicker\ColorPicker\bin\Debug\ColorPicker.pdb
+F:\ColorPicker\ColorPicker\ColorPicker\bin\Debug\Newtonsoft.Json.dll
+F:\ColorPicker\ColorPicker\ColorPicker\bin\Debug\Newtonsoft.Json.xml
+F:\ColorPicker\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csprojResolveAssemblyReference.cache
+F:\ColorPicker\ColorPicker\ColorPicker\obj\Debug\ColorPicker.Form1.resources
+F:\ColorPicker\ColorPicker\ColorPicker\obj\Debug\ColorPicker.Properties.Resources.resources
+F:\ColorPicker\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csproj.GenerateResource.Cache
+E:\Tafe Assessments\Assessment 3\ColorPicker\ColorPicker\bin\Debug\ColorPicker.exe.config
+E:\Tafe Assessments\Assessment 3\ColorPicker\ColorPicker\obj\Debug\ColorPicker.exe
+E:\Tafe Assessments\Assessment 3\ColorPicker\ColorPicker\obj\Debug\ColorPicker.pdb
+E:\Tafe Assessments\Assessment 3\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csprojResolveAssemblyReference.cache
+E:\Tafe Assessments\Assessment 3\ColorPicker\ColorPicker\obj\Debug\ColorPicker.Form1.resources
+E:\Tafe Assessments\Assessment 3\ColorPicker\ColorPicker\obj\Debug\ColorPicker.Properties.Resources.resources
+E:\Tafe Assessments\Assessment 3\ColorPicker\ColorPicker\obj\Debug\ColorPicker.csproj.GenerateResource.Cache
+E:\Tafe Assessments\Assessment 3\ColorPicker\ColorPicker\bin\Debug\ColorPicker.exe
+E:\Tafe Assessments\Assessment 3\ColorPicker\ColorPicker\bin\Debug\ColorPicker.pdb
+E:\Tafe Assessments\Assessment 3\ColorPicker\ColorPicker\bin\Debug\Newtonsoft.Json.dll
+E:\Tafe Assessments\Assessment 3\ColorPicker\ColorPicker\bin\Debug\Newtonsoft.Json.xml
